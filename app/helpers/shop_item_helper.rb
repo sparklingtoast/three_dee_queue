@@ -1,0 +1,2 @@
+module ShopItemHelper
+end
